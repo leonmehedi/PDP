@@ -7,6 +7,6 @@
 </head>
 <body>
       <h1> Python Django Project <html>
-          <h2> Windows User <h2>
+          <h2> For Windows Users- <h2>
 </body>
 </html>
